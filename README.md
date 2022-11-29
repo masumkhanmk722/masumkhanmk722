@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Frond-End Developement**
 
-- 📫 How to reach me **jashim.official75@gmail.com**
+- 📫 How to reach me **masumkhan.mk722@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
