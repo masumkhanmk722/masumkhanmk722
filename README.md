@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jashim Uddin</h1>
+<h1 align="center">Hi 👋, I'm MD Kamruzzaman </h1>
 <p align="center">
 <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
-<img src="https://github.com/jashimuddin360/my_images/blob/master/%2B.jpg" >
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jashimuddin360&label=Profile%20views&color=0e75b6&style=flat" alt="jashim-official75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashim-official75" alt="jashimuddin360" /></a> </p>
